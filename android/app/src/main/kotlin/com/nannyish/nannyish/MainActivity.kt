@@ -1,0 +1,6 @@
+package com.nannyish.nannyish
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
